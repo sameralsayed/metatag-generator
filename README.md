@@ -1,4 +1,4 @@
-# Meta Tag Generato - SEO
+# Meta Tag Generator - SEO
 Simple and easy html code maker for SEO
 
 # install git
