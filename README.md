@@ -1,7 +1,6 @@
 # Meta Tag Generator - SEO
 Simple and easy html code maker for SEO
 
-[Buy Now](https://payhip.com/b/sQo9U)
 
 # install git
 
